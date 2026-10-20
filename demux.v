@@ -1,4 +1,4 @@
-module demux #(
+module demux(
     input [1:0] In,
     input Sel,
     output [1:0] Y1,
