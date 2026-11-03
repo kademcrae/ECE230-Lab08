@@ -13,8 +13,10 @@ In this lab you have learned about multiplexers and demultiplexers.
 
 ## Names
 
+Kade McRae, Luke Lofton
 ## Summary
 
+In this lab we applied multiplexer and demultiplexer circuits to a program designed in verilog for a basys 3 board.
 ## Lab Questions
 
 ### In plain English describe the function and use of a multiplexer.
